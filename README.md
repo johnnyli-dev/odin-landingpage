@@ -1,2 +1,3 @@
 # odin-landingpage
-Landing Page project following theodinproject.com's curriculum
+
+This is a landing page following theodinproject.com's curriculum using mainly flexbox and my HTML and CSS learned so far.
